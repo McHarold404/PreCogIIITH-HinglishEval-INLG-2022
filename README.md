@@ -1,5 +1,7 @@
 # code-mix-quality-shared-task
 
+## Paper link
+ [ Official Submission to INLG 2022.](https://aclanthology.org/2022.inlg-genchal.4)
 
 ## ToDos
 
